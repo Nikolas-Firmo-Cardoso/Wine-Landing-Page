@@ -32,7 +32,7 @@ git clone git@github.com:Nikolas-Firmo-Cardoso/Wine-Landing-Page.git
 Entre na raiz do projeto:
 
 ```bash
-cd hackathon-t19-wine
+cd Wine-Landing-Page
 ```
 
 Instale as dependências:
