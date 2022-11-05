@@ -26,13 +26,13 @@ Você pode conferir o resultado através deste link: https://www.linkedin.com/fe
 Para baixar o código:
 
 ```bash
-git clone git@github.com:Nikolas-Firmo-Cardoso/MagiTrunfo.git
+git clone git@github.com:Nikolas-Firmo-Cardoso/Wine-Landing-Page.git
 ```
 
 Entre na raiz do projeto:
 
 ```bash
-cd sd-019-a-project-tryunfo
+cd hackathon-t19-wine
 ```
 
 Instale as dependências:
