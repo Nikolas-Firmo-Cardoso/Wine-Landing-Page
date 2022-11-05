@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import { apiProducts } from "../services/api";
-import "./Products.css";
 
 import "../style/Products.css"
 
