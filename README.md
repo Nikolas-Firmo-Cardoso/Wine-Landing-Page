@@ -29,10 +29,16 @@ Para baixar o código:
 git clone git@github.com:Nikolas-Firmo-Cardoso/Wine-Landing-Page.git
 ```
 
-Entre na raiz do projeto:
+Entre na pasta:
 
 ```bash
 cd Wine-Landing-Page
+```
+
+Entre na raiz do projeto:
+
+```bash
+cd wine-trybe
 ```
 
 Instale as dependências:
