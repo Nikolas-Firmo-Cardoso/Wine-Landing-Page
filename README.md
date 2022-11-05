@@ -14,3 +14,32 @@ Você pode conferir o resultado através deste link: https://www.linkedin.com/fe
   <img align="center" alt="Niko-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Niko-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+##
+
+## Rodando a aplicação:
+
+
+Para baixar o código:
+
+```bash
+git clone git@github.com:Nikolas-Firmo-Cardoso/MagiTrunfo.git
+```
+
+Entre na raiz do projeto:
+
+```bash
+cd sd-019-a-project-tryunfo
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Inicie a aplicação em seu navegador:
+
+```bash
+npm start
+```
